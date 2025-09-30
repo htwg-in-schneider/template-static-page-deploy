@@ -1,2 +1,5 @@
 # template-static-page-deploy
-Template for a website with deploy to github pages
+
+Vorlage für eine statische Webseite, die als GitHub Page deployt wird.
+
+Die URL der veröffentlichten Seite steht unter ["Settings / Pages"](settings/pages).
